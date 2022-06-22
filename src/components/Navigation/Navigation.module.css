@@ -1,0 +1,14 @@
+.nav {
+    grid-area: nav;
+    background-color: #d2d2d2;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.item {
+    color: #000;
+}
+
+.item.active {
+    color: red;
+}
